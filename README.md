@@ -18,7 +18,7 @@ Saya lulusan S1 Geografi dengan minat kuat di bidang **Sistem Informasi Geografi
 📍 Location   : Indonesia
 🎓 Education  : S1 Geografi
 💼 Status     : Open to Work
-🗺️ Interests  : GIS · Transportasi · Pengembangan Wilayah
+🗺️ Interests  : GIS · Graphics Design . Data Analyst 
 ```
 
 ---
@@ -48,7 +48,7 @@ Saya lulusan S1 Geografi dengan minat kuat di bidang **Sistem Informasi Geografi
 ## 💼 Pengalaman Kerja
 
 ### 🏛️ Administrative Intern — Dinas Tenaga Kerja Kota Malang
-> *[Tahun Mulai] – [Tahun Selesai]*
+> *[] – [2022]*
 
 - 📁 Mengelola dokumen administrasi kantor
 - 🗄️ Membantu pengarsipan data kepegawaian dan ketenagakerjaan
@@ -57,7 +57,7 @@ Saya lulusan S1 Geografi dengan minat kuat di bidang **Sistem Informasi Geografi
 ---
 
 ### 🤝 Administrative Staff — LAZISMU Banyuwangi
-> *[Tahun Mulai] – [Tahun Selesai]*
+> *[April 2026] – [Now]*
 
 - 👥 Mengelola data donatur dan penerima manfaat
 - 📋 Menyusun laporan kegiatan program sosial
