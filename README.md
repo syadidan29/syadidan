@@ -48,7 +48,7 @@ Saya lulusan S1 Geografi dengan minat kuat di bidang **Sistem Informasi Geografi
 ## 💼 Pengalaman Kerja
 
 ### 🏛️ Administrative Intern — Dinas Tenaga Kerja Kota Malang
-> *[] – [2022]*
+> *[Agustus 2022] – [Oktober 2022]*
 
 - 📁 Mengelola dokumen administrasi kantor
 - 🗄️ Membantu pengarsipan data kepegawaian dan ketenagakerjaan
