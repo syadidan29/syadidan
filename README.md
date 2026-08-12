@@ -4,7 +4,7 @@ Portfolio
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D6A4F,40916C,52B788&height=200&section=header&text=Hi%2C%20I%27m%20Syadidan%20Muhammad%20Al%20Jabbar%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Front%20End%20%Developer%207C%20GIS%20Enthusiast%20%7C%20Administrative%20Assistant&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D6A4F,40916C,52B788&height=200&section=header&text=Hi%2C%20I%27m%20Syadidan%20Muhammad%20Al%20Jabbar%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Front%20End%20Developer%207C%20GIS%20Enthusiast%20%7C%20Administrative%20Assistant&descAlignY=58&descSize=16" />
 
 </div>
 
